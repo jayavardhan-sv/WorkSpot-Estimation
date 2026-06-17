@@ -152,7 +152,11 @@ The project is deployed using Streamlit Cloud.
 Live App : https://workspot-estimation-ixbomyuhyqh8ujyv9sqnwk.streamlit.app/
 
 ---
+Output :
 
+<img width="619" height="439" alt="Image" src="https://github.com/user-attachments/assets/c8281ddb-6172-43ae-b4bd-bd3d5b1b949c" />
+
+---
 ## Future Enhancements
 
 * Add deep learning models
